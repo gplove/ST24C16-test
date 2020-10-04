@@ -6,6 +6,7 @@ After my last posting I continued (struggled) to write a working program for tes
 The first modification for the STM32 was to change the 'data' array type from 'byte' to 'int'
 
 The second was to delete the 'return address' command in one of the functions
+
 If anyone knows why these two changes were necessary please let me know.
 
 
